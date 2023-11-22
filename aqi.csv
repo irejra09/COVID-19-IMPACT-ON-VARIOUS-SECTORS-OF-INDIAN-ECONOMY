@@ -1,0 +1,19 @@
+City,Period,Month,AQI
+Delhi,Before Lockdown,1,150
+Delhi,Before Lockdown,2,145
+Delhi,Before Lockdown,3,140
+Delhi,During Lockdown,1,120
+Delhi,During Lockdown,2,115
+Delhi,During Lockdown,3,110
+Noida,Before Lockdown,1,140
+Noida,Before Lockdown,2,135
+Noida,Before Lockdown,3,130
+Noida,During Lockdown,1,110
+Noida,During Lockdown,2,105
+Noida,During Lockdown,3,100
+Gurgaon,Before Lockdown,1,160
+Gurgaon,Before Lockdown,2,155
+Gurgaon,Before Lockdown,3,150
+Gurgaon,During Lockdown,1,130
+Gurgaon,During Lockdown,2,125
+Gurgaon,During Lockdown,3,120

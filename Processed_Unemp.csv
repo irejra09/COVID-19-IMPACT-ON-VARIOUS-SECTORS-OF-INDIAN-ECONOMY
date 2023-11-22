@@ -1,0 +1,755 @@
+State,Month,Year,Unemployment Rate
+Andhra Pradesh,05,2019,3.65
+Andhra Pradesh,06,2019,3.05
+Andhra Pradesh,07,2019,3.75
+Andhra Pradesh,08,2019,3.32
+Andhra Pradesh,09,2019,5.17
+Andhra Pradesh,10,2019,3.52
+Andhra Pradesh,11,2019,4.12
+Andhra Pradesh,12,2019,4.38
+Andhra Pradesh,01,2020,4.84
+Andhra Pradesh,02,2020,5.91
+Andhra Pradesh,03,2020,4.06
+Andhra Pradesh,04,2020,16.29
+Andhra Pradesh,05,2020,14.46
+Andhra Pradesh,06,2020,0.85
+Assam,05,2019,4.29
+Assam,06,2019,5.08
+Assam,07,2019,4.26
+Assam,08,2019,5.79
+Assam,09,2019,4.46
+Assam,10,2019,4.65
+Assam,11,2019,4.66
+Assam,01,2020,4.29
+Assam,02,2020,3.26
+Assam,03,2020,3.77
+Assam,05,2020,9.38
+Assam,06,2020,0.0
+Bihar,05,2019,9.27
+Bihar,06,2019,10.2
+Bihar,07,2019,13.44
+Bihar,08,2019,11.0
+Bihar,09,2019,8.87
+Bihar,10,2019,12.47
+Bihar,11,2019,12.4
+Bihar,12,2019,10.16
+Bihar,01,2020,9.13
+Bihar,02,2020,9.61
+Bihar,03,2020,15.39
+Bihar,04,2020,45.09
+Bihar,05,2020,47.26
+Bihar,06,2020,20.49
+Chhattisgarh,05,2019,9.82
+Chhattisgarh,06,2019,6.76
+Chhattisgarh,07,2019,4.54
+Chhattisgarh,08,2019,4.64
+Chhattisgarh,09,2019,8.33
+Chhattisgarh,10,2019,6.96
+Chhattisgarh,11,2019,2.77
+Chhattisgarh,12,2019,6.11
+Chhattisgarh,01,2020,9.89
+Chhattisgarh,02,2020,7.89
+Chhattisgarh,03,2020,7.31
+Chhattisgarh,04,2020,0.0
+Chhattisgarh,05,2020,7.64
+Chhattisgarh,06,2020,10.14
+Delhi,05,2019,12.56
+Delhi,06,2019,9.33
+Delhi,07,2019,11.07
+Delhi,08,2019,17.18
+Delhi,09,2019,12.5
+Delhi,10,2019,15.84
+Delhi,11,2019,11.11
+Delhi,12,2019,16.97
+Delhi,01,2020,13.48
+Delhi,02,2020,13.81
+Delhi,03,2020,15.18
+Delhi,04,2020,20.69
+Delhi,05,2020,22.76
+Delhi,06,2020,21.14
+Goa,05,2019,2.91
+Goa,06,2019,5.45
+Goa,07,2019,10.98
+Goa,08,2019,1.98
+Goa,09,2019,3.61
+Goa,10,2019,7.21
+Goa,11,2019,23.71
+Goa,12,2019,3.54
+Goa,01,2020,5.38
+Goa,02,2020,0.0
+Goa,04,2020,15.91
+Goa,05,2020,20.0
+Gujarat,05,2019,2.88
+Gujarat,06,2019,4.77
+Gujarat,07,2019,4.58
+Gujarat,08,2019,3.7
+Gujarat,09,2019,6.29
+Gujarat,10,2019,4.91
+Gujarat,11,2019,4.68
+Gujarat,12,2019,3.46
+Gujarat,01,2020,5.35
+Gujarat,02,2020,6.64
+Gujarat,03,2020,7.59
+Gujarat,04,2020,12.0
+Gujarat,05,2020,14.58
+Gujarat,06,2020,1.41
+Haryana,05,2019,14.54
+Haryana,06,2019,23.08
+Haryana,07,2019,16.22
+Haryana,08,2019,30.94
+Haryana,09,2019,16.36
+Haryana,10,2019,24.17
+Haryana,11,2019,16.59
+Haryana,12,2019,29.56
+Haryana,01,2020,16.21
+Haryana,02,2020,27.19
+Haryana,03,2020,23.92
+Haryana,04,2020,41.61
+Haryana,05,2020,34.22
+Haryana,06,2020,35.57
+Himachal Pradesh,05,2019,13.68
+Himachal Pradesh,06,2019,11.43
+Himachal Pradesh,07,2019,20.59
+Himachal Pradesh,08,2019,18.56
+Himachal Pradesh,09,2019,15.98
+Himachal Pradesh,10,2019,15.81
+Himachal Pradesh,11,2019,22.86
+Himachal Pradesh,12,2019,19.46
+Himachal Pradesh,01,2020,16.67
+Himachal Pradesh,02,2020,15.42
+Himachal Pradesh,03,2020,17.71
+Himachal Pradesh,04,2020,2.13
+Himachal Pradesh,05,2020,25.64
+Himachal Pradesh,06,2020,1.12
+Jammu & Kashmir,05,2019,12.78
+Jammu & Kashmir,06,2019,12.09
+Jammu & Kashmir,07,2019,13.67
+Jammu & Kashmir,08,2019,11.32
+Jammu & Kashmir,10,2019,19.27
+Jammu & Kashmir,11,2019,14.73
+Jammu & Kashmir,01,2020,22.19
+Jammu & Kashmir,02,2020,21.23
+Jammu & Kashmir,03,2020,16.0
+Jammu & Kashmir,05,2020,2.22
+Jammu & Kashmir,06,2020,18.97
+Jharkhand,05,2019,7.11
+Jharkhand,06,2019,8.46
+Jharkhand,07,2019,9.98
+Jharkhand,08,2019,12.06
+Jharkhand,09,2019,7.12
+Jharkhand,10,2019,6.57
+Jharkhand,11,2019,8.07
+Jharkhand,12,2019,15.15
+Jharkhand,01,2020,6.16
+Jharkhand,02,2020,9.06
+Jharkhand,03,2020,5.01
+Jharkhand,04,2020,41.72
+Jharkhand,05,2020,55.1
+Jharkhand,06,2020,21.53
+Karnataka,05,2019,5.46
+Karnataka,06,2019,5.98
+Karnataka,07,2019,0.52
+Karnataka,08,2019,0.37
+Karnataka,09,2019,3.2
+Karnataka,10,2019,7.13
+Karnataka,11,2019,1.19
+Karnataka,12,2019,0.41
+Karnataka,01,2020,2.57
+Karnataka,02,2020,4.11
+Karnataka,03,2020,2.39
+Karnataka,04,2020,33.17
+Karnataka,05,2020,23.72
+Karnataka,06,2020,10.92
+Kerala,05,2019,6.63
+Kerala,06,2019,9.0
+Kerala,07,2019,4.95
+Kerala,08,2019,10.32
+Kerala,09,2019,5.35
+Kerala,10,2019,9.14
+Kerala,11,2019,5.0
+Kerala,12,2019,10.77
+Kerala,01,2020,4.11
+Kerala,02,2020,8.91
+Kerala,03,2020,8.85
+Kerala,04,2020,10.71
+Kerala,05,2020,23.38
+Kerala,06,2020,27.66
+Madhya Pradesh,05,2019,3.63
+Madhya Pradesh,06,2019,4.25
+Madhya Pradesh,07,2019,3.92
+Madhya Pradesh,08,2019,4.94
+Madhya Pradesh,09,2019,3.08
+Madhya Pradesh,10,2019,2.98
+Madhya Pradesh,11,2019,2.72
+Madhya Pradesh,12,2019,2.94
+Madhya Pradesh,01,2020,3.66
+Madhya Pradesh,02,2020,4.42
+Madhya Pradesh,03,2020,1.19
+Madhya Pradesh,04,2020,12.5
+Madhya Pradesh,05,2020,22.46
+Madhya Pradesh,06,2020,6.46
+Maharashtra,05,2019,3.67
+Maharashtra,06,2019,4.34
+Maharashtra,07,2019,3.66
+Maharashtra,08,2019,3.76
+Maharashtra,09,2019,4.4
+Maharashtra,10,2019,3.81
+Maharashtra,11,2019,3.68
+Maharashtra,12,2019,3.03
+Maharashtra,01,2020,3.8
+Maharashtra,02,2020,4.24
+Maharashtra,03,2020,5.38
+Maharashtra,04,2020,25.28
+Maharashtra,05,2020,16.89
+Maharashtra,06,2020,9.4
+Meghalaya,05,2019,3.16
+Meghalaya,06,2019,4.23
+Meghalaya,07,2019,1.03
+Meghalaya,08,2019,0.52
+Meghalaya,09,2019,0.24
+Meghalaya,10,2019,3.7
+Meghalaya,11,2019,1.5
+Meghalaya,12,2019,1.8
+Meghalaya,01,2020,0.97
+Meghalaya,02,2020,2.76
+Meghalaya,03,2020,1.28
+Meghalaya,04,2020,8.38
+Meghalaya,05,2020,3.73
+Meghalaya,06,2020,1.35
+Odisha,05,2019,4.17
+Odisha,06,2019,4.71
+Odisha,07,2019,3.31
+Odisha,08,2019,3.68
+Odisha,09,2019,4.31
+Odisha,10,2019,4.28
+Odisha,11,2019,4.72
+Odisha,12,2019,4.67
+Odisha,01,2020,1.81
+Odisha,02,2020,3.31
+Odisha,03,2020,15.09
+Odisha,04,2020,24.48
+Odisha,05,2020,9.45
+Odisha,06,2020,4.59
+Puducherry,05,2019,0.0
+Puducherry,06,2019,0.0
+Puducherry,07,2019,0.0
+Puducherry,08,2019,4.85
+Puducherry,09,2019,0.0
+Puducherry,10,2019,1.18
+Puducherry,11,2019,0.0
+Puducherry,12,2019,1.99
+Puducherry,01,2020,0.58
+Puducherry,02,2020,1.74
+Puducherry,03,2020,2.31
+Puducherry,04,2020,74.51
+Punjab,05,2019,9.17
+Punjab,06,2019,12.21
+Punjab,07,2019,9.64
+Punjab,08,2019,6.69
+Punjab,09,2019,8.59
+Punjab,10,2019,12.56
+Punjab,11,2019,7.07
+Punjab,12,2019,6.13
+Punjab,01,2020,9.69
+Punjab,02,2020,10.41
+Punjab,03,2020,10.51
+Punjab,04,2020,3.69
+Punjab,05,2020,40.59
+Punjab,06,2020,20.0
+Rajasthan,05,2019,4.03
+Rajasthan,06,2019,13.7
+Rajasthan,07,2019,9.7
+Rajasthan,08,2019,12.5
+Rajasthan,09,2019,5.45
+Rajasthan,10,2019,14.66
+Rajasthan,11,2019,10.47
+Rajasthan,12,2019,13.96
+Rajasthan,01,2020,8.0
+Rajasthan,02,2020,14.48
+Rajasthan,03,2020,9.47
+Rajasthan,04,2020,12.25
+Rajasthan,05,2020,10.45
+Rajasthan,06,2020,13.86
+Sikkim,10,2019,5.48
+Sikkim,11,2019,13.11
+Sikkim,12,2019,1.0
+Sikkim,04,2020,0.0
+Sikkim,06,2020,5.81
+Tamil Nadu,05,2019,0.97
+Tamil Nadu,06,2019,0.92
+Tamil Nadu,07,2019,6.01
+Tamil Nadu,08,2019,2.91
+Tamil Nadu,09,2019,1.71
+Tamil Nadu,10,2019,1.46
+Tamil Nadu,11,2019,2.46
+Tamil Nadu,12,2019,3.73
+Tamil Nadu,01,2020,1.18
+Tamil Nadu,02,2020,1.17
+Tamil Nadu,03,2020,6.36
+Tamil Nadu,04,2020,53.19
+Tamil Nadu,05,2020,38.73
+Tamil Nadu,06,2020,2.06
+Telangana,05,2019,2.23
+Telangana,06,2019,5.92
+Telangana,07,2019,2.45
+Telangana,08,2019,1.4
+Telangana,09,2019,5.49
+Telangana,10,2019,7.29
+Telangana,11,2019,6.47
+Telangana,12,2019,1.35
+Telangana,01,2020,5.02
+Telangana,02,2020,9.02
+Telangana,03,2020,5.63
+Telangana,04,2020,4.51
+Telangana,05,2020,34.01
+Telangana,06,2020,19.3
+Tripura,05,2019,29.25
+Tripura,06,2019,26.64
+Tripura,07,2019,22.47
+Tripura,08,2019,25.49
+Tripura,09,2019,30.23
+Tripura,10,2019,27.54
+Tripura,11,2019,25.25
+Tripura,12,2019,26.53
+Tripura,01,2020,31.91
+Tripura,02,2020,26.22
+Tripura,03,2020,31.61
+Tripura,04,2020,43.64
+Tripura,05,2020,14.71
+Tripura,06,2020,18.84
+Uttar Pradesh,05,2019,10.26
+Uttar Pradesh,06,2019,11.13
+Uttar Pradesh,07,2019,9.19
+Uttar Pradesh,08,2019,11.47
+Uttar Pradesh,09,2019,6.45
+Uttar Pradesh,10,2019,10.18
+Uttar Pradesh,11,2019,6.94
+Uttar Pradesh,12,2019,8.43
+Uttar Pradesh,01,2020,6.06
+Uttar Pradesh,02,2020,8.12
+Uttar Pradesh,03,2020,9.37
+Uttar Pradesh,04,2020,19.92
+Uttar Pradesh,05,2020,16.89
+Uttar Pradesh,06,2020,8.51
+Uttarakhand,05,2019,1.63
+Uttarakhand,06,2019,4.65
+Uttarakhand,07,2019,5.74
+Uttarakhand,08,2019,6.11
+Uttarakhand,09,2019,3.47
+Uttarakhand,10,2019,4.83
+Uttarakhand,11,2019,5.56
+Uttarakhand,12,2019,4.52
+Uttarakhand,01,2020,4.17
+Uttarakhand,02,2020,4.85
+Uttarakhand,04,2020,3.66
+Uttarakhand,05,2020,3.57
+Uttarakhand,06,2020,10.71
+West Bengal,05,2019,6.02
+West Bengal,06,2019,5.85
+West Bengal,07,2019,5.62
+West Bengal,08,2019,5.58
+West Bengal,09,2019,5.26
+West Bengal,10,2019,6.78
+West Bengal,11,2019,5.83
+West Bengal,12,2019,5.79
+West Bengal,01,2020,6.79
+West Bengal,02,2020,3.78
+West Bengal,03,2020,7.02
+West Bengal,04,2020,18.32
+West Bengal,05,2020,18.43
+West Bengal,06,2020,4.94
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Andhra Pradesh,05,2019,6.09
+Andhra Pradesh,06,2019,3.8
+Andhra Pradesh,07,2019,5.64
+Andhra Pradesh,08,2019,4.61
+Andhra Pradesh,09,2019,6.01
+Andhra Pradesh,10,2019,4.7
+Andhra Pradesh,11,2019,7.54
+Andhra Pradesh,12,2019,7.88
+Andhra Pradesh,01,2020,7.11
+Andhra Pradesh,02,2020,5.66
+Andhra Pradesh,03,2020,9.88
+Andhra Pradesh,04,2020,32.3
+Andhra Pradesh,05,2020,24.91
+Andhra Pradesh,06,2020,5.86
+Assam,05,2019,7.87
+Assam,06,2019,9.89
+Assam,07,2019,3.21
+Assam,08,2019,10.39
+Assam,09,2019,9.26
+Assam,10,2019,11.17
+Assam,11,2019,6.31
+Assam,12,2019,5.02
+Assam,01,2020,7.24
+Assam,02,2020,9.98
+Assam,03,2020,10.34
+Assam,04,2020,8.37
+Assam,05,2020,10.77
+Assam,06,2020,3.42
+Bihar,05,2019,19.9
+Bihar,06,2019,13.29
+Bihar,07,2019,16.41
+Bihar,08,2019,17.66
+Bihar,09,2019,20.46
+Bihar,10,2019,14.06
+Bihar,11,2019,17.62
+Bihar,12,2019,14.91
+Bihar,01,2020,20.69
+Bihar,02,2020,15.11
+Bihar,03,2020,15.73
+Bihar,04,2020,58.77
+Bihar,05,2020,37.87
+Bihar,06,2020,12.45
+Chandigarh,05,2019,18.35
+Chandigarh,06,2019,12.4
+Chandigarh,07,2019,21.8
+Chandigarh,08,2019,9.52
+Chandigarh,09,2019,20.14
+Chandigarh,10,2019,13.99
+Chandigarh,11,2019,22.05
+Chandigarh,12,2019,8.33
+Chandigarh,01,2020,20.0
+Chandigarh,02,2020,16.67
+Chandigarh,03,2020,21.43
+Chandigarh,06,2020,7.22
+Chhattisgarh,05,2019,9.77
+Chhattisgarh,06,2019,11.77
+Chhattisgarh,07,2019,8.17
+Chhattisgarh,08,2019,6.29
+Chhattisgarh,09,2019,9.46
+Chhattisgarh,10,2019,10.27
+Chhattisgarh,11,2019,8.32
+Chhattisgarh,12,2019,3.57
+Chhattisgarh,01,2020,9.01
+Chhattisgarh,02,2020,9.79
+Chhattisgarh,03,2020,8.21
+Chhattisgarh,04,2020,20.13
+Chhattisgarh,05,2020,24.1
+Chhattisgarh,06,2020,27.07
+Delhi,05,2019,12.31
+Delhi,06,2019,12.76
+Delhi,07,2019,14.68
+Delhi,08,2019,13.52
+Delhi,09,2019,20.59
+Delhi,10,2019,12.41
+Delhi,11,2019,16.11
+Delhi,12,2019,11.07
+Delhi,01,2020,22.45
+Delhi,02,2020,14.86
+Delhi,03,2020,17.09
+Delhi,04,2020,16.51
+Delhi,05,2020,45.78
+Delhi,06,2020,18.11
+Goa,05,2019,2.75
+Goa,06,2019,13.33
+Goa,07,2019,12.28
+Goa,08,2019,4.9
+Goa,09,2019,3.16
+Goa,10,2019,12.31
+Goa,11,2019,25.2
+Goa,12,2019,16.22
+Goa,01,2020,10.92
+Goa,02,2020,4.31
+Goa,03,2020,4.76
+Goa,04,2020,11.76
+Gujarat,05,2019,4.09
+Gujarat,06,2019,6.31
+Gujarat,07,2019,5.15
+Gujarat,08,2019,4.2
+Gujarat,09,2019,5.96
+Gujarat,10,2019,5.45
+Gujarat,11,2019,7.53
+Gujarat,12,2019,5.71
+Gujarat,01,2020,5.82
+Gujarat,02,2020,6.04
+Gujarat,03,2020,5.39
+Gujarat,04,2020,25.94
+Gujarat,05,2020,11.62
+Gujarat,06,2020,4.54
+Haryana,05,2019,24.67
+Haryana,06,2019,20.42
+Haryana,07,2019,25.45
+Haryana,08,2019,24.19
+Haryana,09,2019,26.84
+Haryana,10,2019,21.04
+Haryana,11,2019,27.06
+Haryana,12,2019,23.65
+Haryana,01,2020,27.24
+Haryana,02,2020,23.29
+Haryana,03,2020,27.14
+Haryana,04,2020,46.89
+Haryana,05,2020,38.46
+Haryana,06,2020,29.41
+Himachal Pradesh,05,2019,10.88
+Himachal Pradesh,06,2019,21.43
+Himachal Pradesh,07,2019,21.51
+Himachal Pradesh,08,2019,24.48
+Himachal Pradesh,09,2019,12.0
+Himachal Pradesh,10,2019,23.77
+Himachal Pradesh,11,2019,27.27
+Himachal Pradesh,12,2019,25.32
+Himachal Pradesh,01,2020,18.15
+Himachal Pradesh,02,2020,27.31
+Himachal Pradesh,03,2020,26.44
+Himachal Pradesh,04,2020,2.7
+Himachal Pradesh,05,2020,50.0
+Himachal Pradesh,06,2020,10.81
+Jammu & Kashmir,05,2019,23.04
+Jammu & Kashmir,06,2019,19.88
+Jammu & Kashmir,07,2019,21.55
+Jammu & Kashmir,10,2019,24.06
+Jammu & Kashmir,11,2019,14.29
+Jammu & Kashmir,12,2019,7.02
+Jammu & Kashmir,01,2020,18.54
+Jammu & Kashmir,02,2020,19.86
+Jammu & Kashmir,03,2020,14.29
+Jammu & Kashmir,05,2020,12.96
+Jharkhand,05,2019,17.23
+Jharkhand,06,2019,20.51
+Jharkhand,07,2019,15.67
+Jharkhand,08,2019,20.25
+Jharkhand,09,2019,21.16
+Jharkhand,10,2019,19.05
+Jharkhand,11,2019,17.34
+Jharkhand,12,2019,22.01
+Jharkhand,01,2020,22.96
+Jharkhand,02,2020,19.67
+Jharkhand,03,2020,16.4
+Jharkhand,04,2020,61.48
+Jharkhand,05,2020,70.17
+Jharkhand,06,2020,19.38
+Karnataka,05,2019,6.56
+Karnataka,06,2019,5.0
+Karnataka,07,2019,2.29
+Karnataka,08,2019,1.27
+Karnataka,09,2019,3.57
+Karnataka,10,2019,3.87
+Karnataka,11,2019,3.44
+Karnataka,12,2019,1.56
+Karnataka,01,2020,3.31
+Karnataka,02,2020,2.88
+Karnataka,03,2020,4.92
+Karnataka,04,2020,25.12
+Karnataka,05,2020,15.88
+Karnataka,06,2020,6.12
+Kerala,05,2019,6.11
+Kerala,06,2019,6.67
+Kerala,07,2019,7.58
+Kerala,08,2019,7.69
+Kerala,09,2019,5.52
+Kerala,10,2019,5.35
+Kerala,11,2019,6.71
+Kerala,12,2019,7.31
+Kerala,01,2020,6.65
+Kerala,02,2020,6.08
+Kerala,03,2020,9.14
+Kerala,04,2020,21.43
+Kerala,05,2020,30.28
+Kerala,06,2020,12.17
+Madhya Pradesh,05,2019,3.91
+Madhya Pradesh,06,2019,6.38
+Madhya Pradesh,07,2019,7.38
+Madhya Pradesh,08,2019,6.82
+Madhya Pradesh,09,2019,7.0
+Madhya Pradesh,10,2019,4.4
+Madhya Pradesh,11,2019,6.06
+Madhya Pradesh,12,2019,6.2
+Madhya Pradesh,01,2020,5.17
+Madhya Pradesh,02,2020,4.96
+Madhya Pradesh,03,2020,4.8
+Madhya Pradesh,04,2020,11.94
+Madhya Pradesh,05,2020,40.49
+Madhya Pradesh,06,2020,12.72
+Maharashtra,05,2019,6.08
+Maharashtra,06,2019,6.46
+Maharashtra,07,2019,6.35
+Maharashtra,08,2019,7.57
+Maharashtra,09,2019,7.6
+Maharashtra,10,2019,7.51
+Maharashtra,11,2019,7.6
+Maharashtra,12,2019,7.83
+Maharashtra,01,2020,6.67
+Maharashtra,02,2020,5.34
+Maharashtra,03,2020,6.34
+Maharashtra,04,2020,14.99
+Maharashtra,05,2020,15.92
+Maharashtra,06,2020,10.01
+Meghalaya,05,2019,8.4
+Meghalaya,06,2019,8.66
+Meghalaya,07,2019,4.43
+Meghalaya,08,2019,5.8
+Meghalaya,09,2019,5.3
+Meghalaya,10,2019,7.2
+Meghalaya,11,2019,3.02
+Meghalaya,12,2019,5.21
+Meghalaya,01,2020,4.76
+Meghalaya,02,2020,7.37
+Meghalaya,03,2020,2.8
+Meghalaya,04,2020,17.39
+Meghalaya,05,2020,14.58
+Odisha,05,2019,2.95
+Odisha,06,2019,2.63
+Odisha,07,2019,1.78
+Odisha,08,2019,3.5
+Odisha,09,2019,3.78
+Odisha,10,2019,4.5
+Odisha,11,2019,2.23
+Odisha,12,2019,3.36
+Odisha,01,2020,2.28
+Odisha,02,2020,2.19
+Odisha,03,2020,3.96
+Odisha,04,2020,20.5
+Odisha,05,2020,10.0
+Odisha,06,2020,2.18
+Puducherry,05,2019,1.25
+Puducherry,06,2019,0.0
+Puducherry,07,2019,0.0
+Puducherry,08,2019,8.95
+Puducherry,09,2019,1.22
+Puducherry,10,2019,1.17
+Puducherry,11,2019,1.37
+Puducherry,12,2019,5.21
+Puducherry,01,2020,0.57
+Puducherry,02,2020,1.78
+Puducherry,03,2020,0.62
+Puducherry,04,2020,76.74
+Puducherry,05,2020,75.0
+Puducherry,06,2020,4.55
+Punjab,05,2019,13.49
+Punjab,06,2019,13.17
+Punjab,07,2019,11.61
+Punjab,08,2019,11.99
+Punjab,09,2019,15.69
+Punjab,10,2019,13.75
+Punjab,11,2019,10.39
+Punjab,12,2019,11.97
+Punjab,01,2020,13.68
+Punjab,02,2020,11.99
+Punjab,03,2020,9.97
+Punjab,04,2020,1.13
+Punjab,05,2020,20.54
+Punjab,06,2020,10.55
+Rajasthan,05,2019,13.62
+Rajasthan,06,2019,14.36
+Rajasthan,07,2019,11.67
+Rajasthan,08,2019,14.71
+Rajasthan,09,2019,12.63
+Rajasthan,10,2019,13.02
+Rajasthan,11,2019,14.3
+Rajasthan,12,2019,18.04
+Rajasthan,01,2020,18.82
+Rajasthan,02,2020,17.02
+Rajasthan,03,2020,18.54
+Rajasthan,04,2020,35.53
+Rajasthan,05,2020,25.35
+Rajasthan,06,2020,13.04
+Sikkim,05,2019,8.2
+Sikkim,06,2019,7.76
+Sikkim,07,2019,2.56
+Sikkim,08,2019,4.82
+Sikkim,09,2019,4.81
+Sikkim,10,2019,9.68
+Sikkim,11,2019,4.04
+Sikkim,12,2019,7.37
+Sikkim,03,2020,20.45
+Sikkim,04,2020,5.77
+Sikkim,05,2020,19.75
+Sikkim,06,2020,2.63
+Tamil Nadu,05,2019,0.89
+Tamil Nadu,06,2019,1.56
+Tamil Nadu,07,2019,3.18
+Tamil Nadu,08,2019,9.53
+Tamil Nadu,09,2019,1.86
+Tamil Nadu,10,2019,1.13
+Tamil Nadu,11,2019,2.65
+Tamil Nadu,12,2019,8.05
+Tamil Nadu,01,2020,2.05
+Tamil Nadu,02,2020,3.31
+Tamil Nadu,03,2020,6.46
+Tamil Nadu,04,2020,45.55
+Tamil Nadu,05,2020,25.95
+Tamil Nadu,06,2020,24.93
+Telangana,05,2019,1.52
+Telangana,06,2019,1.43
+Telangana,07,2019,3.73
+Telangana,08,2019,4.19
+Telangana,09,2019,6.19
+Telangana,10,2019,6.74
+Telangana,11,2019,5.23
+Telangana,12,2019,4.22
+Telangana,01,2020,6.49
+Telangana,02,2020,6.74
+Telangana,03,2020,6.1
+Telangana,04,2020,10.5
+Telangana,05,2020,36.57
+Telangana,06,2020,6.92
+Tripura,05,2019,34.69
+Tripura,06,2019,25.59
+Tripura,07,2019,25.81
+Tripura,08,2019,33.45
+Tripura,09,2019,33.57
+Tripura,10,2019,26.67
+Tripura,11,2019,27.15
+Tripura,12,2019,33.48
+Tripura,01,2020,34.37
+Tripura,02,2020,33.88
+Tripura,03,2020,25.69
+Tripura,04,2020,34.88
+Tripura,05,2020,16.78
+Tripura,06,2020,27.47
+Uttar Pradesh,05,2019,14.4
+Uttar Pradesh,06,2019,11.62
+Uttar Pradesh,07,2019,11.8
+Uttar Pradesh,08,2019,14.73
+Uttar Pradesh,09,2019,13.58
+Uttar Pradesh,10,2019,10.35
+Uttar Pradesh,11,2019,11.31
+Uttar Pradesh,12,2019,12.37
+Uttar Pradesh,01,2020,12.34
+Uttar Pradesh,02,2020,11.65
+Uttar Pradesh,03,2020,12.32
+Uttar Pradesh,04,2020,26.94
+Uttar Pradesh,05,2020,32.06
+Uttar Pradesh,06,2020,13.05
+Uttarakhand,05,2019,9.17
+Uttarakhand,06,2019,4.69
+Uttarakhand,07,2019,6.94
+Uttarakhand,08,2019,7.43
+Uttarakhand,09,2019,9.62
+Uttarakhand,10,2019,4.72
+Uttarakhand,11,2019,6.34
+Uttarakhand,12,2019,7.39
+Uttarakhand,01,2020,8.92
+Uttarakhand,02,2020,5.28
+Uttarakhand,03,2020,8.15
+Uttarakhand,04,2020,13.18
+Uttarakhand,05,2020,17.36
+Uttarakhand,06,2020,5.08
+West Bengal,05,2019,7.25
+West Bengal,06,2019,7.38
+West Bengal,07,2019,7.91
+West Bengal,08,2019,7.27
+West Bengal,09,2019,7.79
+West Bengal,10,2019,7.83
+West Bengal,11,2019,6.61
+West Bengal,12,2019,7.24
+West Bengal,01,2020,7.27
+West Bengal,02,2020,7.55
+West Bengal,03,2020,6.67
+West Bengal,04,2020,15.63
+West Bengal,05,2020,15.22
+West Bengal,06,2020,9.86
